@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Ложкин](https://up.htmlacademy.ru/htmlcss/15/user/273115).
-* Наставник: [Вадим Федоров](https://up.htmlacademy.ru/htmlcss/15/user/224110).
+* Наставник: [Вадим bhoodream Федоров](https://up.htmlacademy.ru/htmlcss/15/user/224110).
 
 ---
 
